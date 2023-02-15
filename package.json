@@ -1,0 +1,45 @@
+{
+  "name": "codesandbox-theme",
+  "displayName": "CodeSandbox Theme",
+  "description": "Unofficial CodeSandbox theme",
+  "publisher": "neru",
+  "license": "MIT",
+  "author": {
+    "name": "neru"
+  },
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isneru/codesandbox-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "background": "#151515",
+    "theme": "dark"
+  },
+  "icon": "images/codesandbox.png",
+  "keywords": [
+    "neru",
+    "isneru",
+    "theme",
+    "codesandbox",
+    "clean"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CodeSandbox Theme",
+        "uiTheme": "vs-dark",
+        "path": "./theme/theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "vsce": "^1.75.0"
+  }
+}
