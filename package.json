@@ -1,13 +1,13 @@
 {
-  "name": "codesandbox-theme",
-  "displayName": "CodeSandbox Theme",
+  "name": "codesandbox-theme-neru",
+  "displayName": "CodeSandbox Theme - github.com/isneru",
   "description": "Unofficial CodeSandbox theme",
   "publisher": "isneru",
   "license": "MIT",
   "author": {
     "name": "neru"
   },
-  "version": "0.0.1",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/isneru/codesandbox-theme.git"
